@@ -43,3 +43,4 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'anjlab-bootstrap-rails', '~> 3.0.3.0', :require =>'bootstrap-rails'
